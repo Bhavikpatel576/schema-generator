@@ -41,7 +41,7 @@ Note: the user has complete flexibility to update the generated sql to suite any
 
 1. Save the package as a dev dependency
   ```sh
-  npm install --save-dev schema-generator
+  npm install --save-dev schema-control
   ```
 
 2. Declare your entities, somewhere in your VCS repo
